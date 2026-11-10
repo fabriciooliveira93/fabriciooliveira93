@@ -35,13 +35,6 @@
 
 ---
 
-## 💼 Experiência profissional
-
-**Cuca Fresca Informática**  
-Desenvolvedor Web | Setembro/2022 – Atualmente
-
----
-
 ## 🎓 Formação acadêmica
 
 - **Pós-graduação em Desenvolvimento Full Stack** – Universidade de Marília (2026–2027).
