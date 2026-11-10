@@ -1,4 +1,4 @@
-# Olá! Eu sou o Fabrício dos Santos Oliveira 👋
+# Olá! Eu sou o Fabrício 👋
 
 ## 🚀 Sobre mim
 
