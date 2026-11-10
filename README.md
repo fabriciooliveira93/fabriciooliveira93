@@ -40,11 +40,6 @@
 **Cuca Fresca Informática**  
 Desenvolvedor Web | Setembro/2022 – Atualmente
 
-Atuação no desenvolvimento e manutenção de aplicações web corporativas, com foco em soluções para os setores Fiscal, Departamento Pessoal e Contábil.
-
-**SaneFlux Soluções Ambientais**  
-Desenhista de CAD | Dezembro/2021 – Agosto/2022
-
 ---
 
 ## 🎓 Formação acadêmica
